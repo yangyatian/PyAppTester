@@ -1,0 +1,10 @@
+platformName : Android
+platformVersion : 6.0.1
+deviceName : 127.0.0.1:7555
+appPackage : com.xueqiu.android
+appActivity : com.xueqiu.android.common.MainActivity
+noReset : True
+skipServerInstallation : True
+unicodeKeyBoard : True
+resetKeyBoard : True
+autoGrantPermissions : True
